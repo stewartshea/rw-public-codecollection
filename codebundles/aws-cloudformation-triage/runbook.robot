@@ -1,6 +1,6 @@
 *** Settings ***
 Metadata          Author    Jonathan Funk
-Metadata          Name      AWS CloudFormation Triage
+Metadata          Display Name    AWS CloudFormation Triage
 Documentation     Triage and troubleshoot various issues with AWS CloudFormation
 Force Tags        AWS    CloudFormation    Boto3    Stack Events    Stacks    Errors    Failures
 Library           RW.Core

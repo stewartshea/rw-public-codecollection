@@ -1,6 +1,6 @@
 *** Settings ***
 Metadata          Author    Jonathan Funk
-Metadata          Name      AWS Billing Costs Across Tags
+Metadata          Display Name    AWS Billing Costs Across Tags
 Documentation     Creates a report of AWS line item costs filtered to a list of tagged resources
 Force Tags        AWS    Cost    Billing    CostExplorer    Usage    Report
 Library           RW.Core
