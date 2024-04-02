@@ -1,6 +1,6 @@
 *** Settings ***
 Metadata          Author    Jonathan Funk
-Metadata          Display Name    AWS Monitor Costs Across Tags
+Metadata            Display Name    AWS Monitor Costs Across Tags
 Documentation     Monitors AWS cost and usage data for the latest billing period.
 ...               Accepts one tag for continuous monitoring.
 Force Tags        AWS    Cost    Billing    CostExplorer    Usage
